@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="530d2283-2eb2-41c5-840b-7ab92e21418c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -451,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508499549600</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update:merge test1">
+      <created>1508499567391</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1508499567391</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -535,7 +541,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="update:merge test" />
-    <option name="LAST_COMMIT_MESSAGE" value="update:merge test" />
+    <MESSAGE value="update:merge test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update:merge test1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
